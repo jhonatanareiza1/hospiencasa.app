@@ -1,0 +1,17 @@
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.csproj.AssemblyReference.cache
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.AssemblyInfo.cs
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\bin\Debug\net6.0\HospiEnCasa.App.Persistencia.deps.json
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\bin\Debug\net6.0\HospiEnCasa.App.Persistencia.runtimeconfig.json
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\bin\Debug\net6.0\HospiEnCasa.App.Persistencia.dll
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\bin\Debug\net6.0\HospiEnCasa.App.Persistencia.pdb
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\bin\Debug\net6.0\HospiEnCasa.App.Dominio.dll
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\bin\Debug\net6.0\HospiEnCasa.App.Dominio.pdb
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.csproj.CopyComplete
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.dll
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\obj\Debug\net6.0\refint\HospiEnCasa.App.Persistencia.dll
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.pdb
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.genruntimeconfig.cache
+E:\javascript\portafolio1\.net\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.app.persistencia\obj\Debug\net6.0\ref\HospiEnCasa.App.Persistencia.dll
